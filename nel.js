@@ -3,10 +3,8 @@ G.AddData({
 	author:'trenxy',
 	desc:'Adds coal as a crafting option for firepits and a way to purify water using coal+sand',
 	engineVersion:1,
-	manifest:0,
-	/*sheets:{
-		'coal_images':'coal_images.png'
-	},*/
+	manifest:1,
+
 	func:function() {
 		G.getDict('firekeeper').modes['coal fire']={
 			name:'Start fires from coal',

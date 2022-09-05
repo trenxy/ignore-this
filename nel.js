@@ -1,10 +1,9 @@
 G.AddData({
 	name:'Coal mod',
-	author:'Bruno Mussoi Mendonça',
+	author:'trenxy',
 	desc:'Adds coal as a crafting option for firepits and a way to purify water using coal+sand',
 	engineVersion:1,
 	manifest:0,
-	requires:['Default dataset*'],
 	/*sheets:{
 		'coal_images':'coal_images.png'
 	},*/
